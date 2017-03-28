@@ -1,0 +1,14 @@
+contact_data = ["joe@email.com", "123 Main st.", "555-123-4567"]
+contacts = {"Joe Smith" => {}}
+
+
+
+contacts.each do |contact, info|
+  info[:email] = contact_data.shift
+  info[:address] = contact_data.shift
+  info[:phone] = contact_data.shift
+end
+
+p contacts
+ 
+  

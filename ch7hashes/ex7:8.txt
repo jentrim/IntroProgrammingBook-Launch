@@ -1,0 +1,6 @@
+EX7:
+the first has uses a symbol as the key, but the second has uses a string as key
+
+
+EX8:
+B. There is no method called keys for Array objects

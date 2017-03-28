@@ -1,0 +1,1 @@
+Error triggered by attempt to access the variable or method "shoes" which was not defined within the scope in which it was called.

@@ -1,0 +1,2 @@
+The first program outputs the value of x, which is 3.
+The second program throws an error because x is defined within the scope created by calling the method times, so it is unavailable to use outside of that scope when called by puts.

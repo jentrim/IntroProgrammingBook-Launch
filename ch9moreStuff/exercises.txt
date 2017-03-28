@@ -1,0 +1,5 @@
+2.   The code prints nothing to the screen because the block was not called.  #<Proc:0x007ff9441634c0@test.rb:5> is returned which, according to the provided solution, is a proc object.
+
+3.  Exception handling is the process of building into your program a means of handling errors which may arise so that the program can continue to run normally.  Typically uses reserved word, rescue.
+
+5.  The parameter block needs to be preceded by &.

@@ -1,0 +1,7 @@
+ex 7)A hash contains key/value pairs, while an array contains values ordered by index starting at 0.  
+
+
+ex10)   yes      h = {pets: ['Buckeye', 'Sherlock']}
+        yes      a = [{brothers: 'Ben'}, {pets: ['Buckeye', 'Sherlock']}]
+
+ex17) The hashes are the same because order is not considered in equivalence of hashes, only key-value pairs.
